@@ -1,3 +1,4 @@
+// Final Update for Programming Tools Task 3
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
